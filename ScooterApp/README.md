@@ -37,3 +37,5 @@ This project is developed as part of the Object-Oriented Programming course at B
 
 ## Compilation and Execution
 To compile the program using the GNU Compiler, use the following command:
+g++ -std=c++20 -o prog *.cpp
+
