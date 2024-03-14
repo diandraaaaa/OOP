@@ -18,5 +18,3 @@ This project is developed as part of the Object-Oriented Programming. It aims to
 
 ## Architecture
 The application follows a modular architecture with namespaces for domain, repository, controller, and UI. It utilizes smart pointers where necessary and adheres to English naming conventions for clarity.
-
-### UML Class Diagram
