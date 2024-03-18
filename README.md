@@ -1,6 +1,6 @@
 # Object-Oriented Programming (OOP) Course
 
-This repository contains projects developed as part of the Object-Oriented Programming course at Babeș-Bolyai University, Cluj Napoca.
+This repository contains projects developed as part of the Object-Oriented Programming course.
 
 ## Description
 
